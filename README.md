@@ -6,5 +6,4 @@
 ### 1/2/3 are part of codes for Airbnb Recommendation System
 
 
-### 4.LSI_Analysis. This is a part of code for a course project. It used web scrapping
-NLP LSI analysis to find out similiarity between musicians.
+### 4.LSI_Analysis. This is a part of code for a course project. It used web scrapping NLP LSI analysis to find out similiarity between musicians.
