@@ -2,7 +2,8 @@
 """
 Created on Sat Dec  1 22:16:30 2018
 
-@author: Baoyp
+@author: KunTang
+@copyright: Kun Tang 2018
 """
 # -*- coding: utf-8 -*-
 import dash
